@@ -7,6 +7,8 @@ This repository includes both the final Arduino code, as well as the final docum
 ## Introduction
 Using projectile motion, an angle of launch can be determined and applied in an Olympic archery setting. Paired with an Arduino microcontroller, the derivations can be used to create a device that will assist an archer in training their muscle memory. The purpose of this document is to explain derivations as well as electronic components, should future modifications need to be adjusted/implemented.
 
+![IMG_1057](https://github.com/ntader/ArcheryAlgorithm/assets/141366829/f62c0a6e-aa66-4862-9ca2-9e393a679904)
+
 ### Hyperlinks
 To access the hyperlinks, the raw pdf file will need to be downloaded. They can also be viewed here (in order of appearance):
 
