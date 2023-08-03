@@ -1,3 +1,5 @@
+#Intro
+
 This repository includes both the final Arduino code, as well as the final documentation for version one of the archery algorithm device.
 
 To access the hyperlinks, the raw pdf file will need to be downloaded. They can also be viewed here (in order of appearance):
