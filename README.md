@@ -9,6 +9,8 @@ Using projectile motion, an angle of launch can be determined and applied in an 
 
 ![IMG_1057](https://github.com/ntader/ArcheryAlgorithm/assets/141366829/f62c0a6e-aa66-4862-9ca2-9e393a679904)
 
+View the documentation [here](ArcheryDoc_V1.0.pdf).
+
 ### Hyperlinks
 To access the hyperlinks, the raw pdf file will need to be downloaded. They can also be viewed here (in order of appearance):
 
